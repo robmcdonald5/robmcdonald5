@@ -16,3 +16,8 @@
 - Live project: An LLM‑powered agentic system with container orchestration and real‑time monitoring for creative writing  
 - Exploring: scalable workflows with LangChain + LangGraph
 - More to see soon..
+
+
+## Check Out My Work
+
+https://www.joshuamcdonald.me/
