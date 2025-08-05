@@ -1,16 +1,18 @@
-## Hi there 👋
+# ​ Hi, I’m Josh
 
-<!--
-**robmcdonald5/robmcdonald5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ​ My Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 End‑to‑End AI apps: from data ingestion to ML pipelines to cloud deployment  
+- ⚙️ Scalable Python systems: FastAPI / Flask APIs, async processing, Docker/Kubernetes  
+- 🧠 AI & Agentic systems: LLM workflows, vector search, embedding pipelines, LangChain, LangGraph  
+- 🧪 Clean engineering: CI/CD, testing, monitoring, robust error handling  
+
+---
+
+## ​ What I’m Building
+
+- Live project: An LLM‑powered agentic system with container orchestration and real‑time monitoring for creative writing  
+- Exploring: scalable workflows with LangChain + LangGraph
+- More to see soon..
