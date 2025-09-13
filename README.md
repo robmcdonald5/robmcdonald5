@@ -11,7 +11,11 @@
 
 ---
 
-## ​ What I’m Building
+## Online SVG Converter
+
+- vec2art is an in browser SVG converter that uses WASM to allow users to quickly convert images into SVG art with their own local compute
+
+## ​ What I’m Building With AI Now
 
 - Live project: An LLM‑powered agentic system with container orchestration and real‑time monitoring for creative writing  
 - Exploring: scalable workflows with LangChain + LangGraph
@@ -20,5 +24,5 @@
 
 ## Check Out My Work
 
-https://www.joshuamcdonald.me/
-https://www.vec2art.com/
+[joshuamcdonald.me](https://www.joshuamcdonald.me)<br>
+[vec2art.com](https://www.vec2art.com)
