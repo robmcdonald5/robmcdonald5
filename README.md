@@ -26,5 +26,5 @@
 ## Check Out My Work
 
 [joshuamcdonald.me](https://www.joshuamcdonald.me)<br>
-[vec2art.com](https://www.vec2art.com)
+[vec2art.com](https://www.vec2art.com)<br>
 [claudefig](https://pypi.org/project/claudefig/)
